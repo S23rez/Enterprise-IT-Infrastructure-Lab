@@ -1,4 +1,4 @@
-# Enterprise Active Directory, Perimeter Security & Multi-Site Infrastructure Lab
+# Enterprise IT Infrastructure Lab: Multi-Site Active Directory & Network
 
 [![Windows Server 2025](https://img.shields.io/badge/Windows%20Server-2025%20Std-0078D4?style=flat&logo=windows)](https://www.microsoft.com/evalcenter/evaluate-windows-server-2025)
 [![Active Directory](https://img.shields.io/badge/Active%20Directory-AD%20DS%20%7C%20DNS%20%7C%20GPO-0078D4?style=flat&logo=windows)](https://learn.microsoft.com/en-us/windows-server/identity/ad-ds/active-directory-domain-services)
